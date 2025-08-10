@@ -1,4 +1,4 @@
-# React eCommerce Web App
+# React eCommerce Front-End
 
 ![React](https://img.shields.io/badge/React-18.x-blue?logo=react)
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)
